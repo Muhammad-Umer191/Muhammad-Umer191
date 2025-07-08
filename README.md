@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @Muhammad-Umer191
-- 👀 I’m interested in learning DSA and WEb Dev
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I’m a developer who loves building things from the ground up — whether it’s full stack web applications, games, or tools that just work well.
+I care about clean code, performance, and understanding how everything fits under the hood.
 
-<!---
-Muhammad-Umer191/Muhammad-Umer191 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧠 Interests:
+
+    System design & architecture
+
+    Game development with low-level control
+
+    Machine learning & transformers
+
+    Quantum computing fundamentals
+
+    Linux customization & tooling
+
+    Keyboard-driven workflows (hello, Neovim)
+
+I use Arch Linux not because it’s easy — but because I like knowing exactly what’s running on my machine.
