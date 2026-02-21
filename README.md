@@ -1,4 +1,4 @@
-I’m a developer who loves building things from the ground up — whether it’s full stack web applications, games, or tools that just work well.
+I’m a developer who loves building things from the ground up — whether it’s full-stack Web and Android applications, games, tools, or ML, DL, NLP tasks that work amazingly.
 I care about clean code, performance, and understanding how everything fits under the hood.
 
 🧠 Interests:
