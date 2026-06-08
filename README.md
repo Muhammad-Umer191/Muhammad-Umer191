@@ -5,14 +5,12 @@ I care about clean code, performance, and understanding how everything fits unde
 
     System design & architecture
 
-    Game development with low-level control
+    AI/ML and Automation
 
-    Machine learning & transformers
+    DL & NLP
 
     Quantum computing fundamentals
 
     Linux customization & tooling
-
-    Keyboard-driven workflows (hello, Neovim)
 
 I use Arch Linux not because it’s easy — but because I like knowing exactly what’s running on my machine.
