@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Muhammad-Umer191/Muhammad-Umer191/main/assets/Muhammad_Umer191_github_banner.svg" alt="Muhammad Umer — AI/ML, NLP, Deep Learning, System Design, and Full Stack Engineer" width="100%" />
+<img src="https://raw.githubusercontent.com/Muhammad-Umer191/Muhammad-Umer191/main/assets/Muhammad_Umer191_github_banner.svg?v=20260722" alt="Muhammad Umer — AI/ML, NLP, Deep Learning, System Design, and Full Stack Engineer" width="100%" />
 
 <p>
 <a href="mailto:uarfan@gmail.com">
@@ -215,7 +215,7 @@
 ## ACTIVITY.feed — CONTRIBUTION GRID
 
 <div align="center">
-  <img alt="Snake animation moving through Muhammad Umer's GitHub contribution grid" src="https://raw.githubusercontent.com/Muhammad-Umer191/Muhammad-Umer191/gh-pages/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img alt="Snake animation moving through Muhammad Umer's GitHub contribution grid" src="https://raw.githubusercontent.com/Muhammad-Umer191/Muhammad-Umer191/gh-pages/github-contribution-grid-snake-dark.svg?v=20260722" width="100%" />
 </div>
 
 ---
