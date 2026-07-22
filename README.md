@@ -1,10 +1,6 @@
 <div align="center">
 
-# Hi there 👋 I'm Muhammad Umer
-
-### AI/ML/DL Engineer • NLP Engineer • Full Stack Developer • Open Source Contributor
-
-Building intelligent software with Artificial Intelligence, scalable full-stack applications, and modern cloud technologies.
+<img src="assets/hero-banner.svg" alt="Muhammad Umer — AI/ML, NLP, Deep Learning, System Design, and Full Stack Engineer" width="100%" />
 
 <p>
 <a href="mailto:uarfan@gmail.com">
@@ -27,12 +23,12 @@ Building intelligent software with Artificial Intelligence, scalable full-stack 
 
 # About Me
 
-- 🤖 AI/ML Engineer passionate about solving real-world problems using Machine Learning, Deep Learning, and Large Language Models.
-- 🧠 Interested in **Artificial Intelligence, Natural Language Processing (NLP), Computer Vision, Generative AI, Retrieval-Augmented Generation (RAG), and Agentic AI**.
-- ⚡ Full Stack Developer specializing in AI-powered applications, scalable backend systems, and modern web technologies.
-- ☁️ Enthusiastic about Cloud Computing, DevOps, MLOps, and modern software architecture.
-- 🐧 Linux enthusiast and Open Source contributor.
-- 🚀 Always learning new technologies and building useful products.
+- AI/ML Engineer passionate about solving real-world problems using Machine Learning, Deep Learning, and Large Language Models.
+- Interested in **Artificial Intelligence, Natural Language Processing (NLP), Computer Vision, Generative AI, Retrieval-Augmented Generation (RAG), and Agentic AI**.
+- Full Stack Developer specializing in AI-powered applications, scalable backend systems, and modern web technologies.
+- Enthusiastic about Cloud Computing, DevOps, MLOps, and modern software architecture.
+- Linux enthusiast and Open Source contributor.
+- Always learning new technologies and building useful products.
 
 ---
 
@@ -40,7 +36,16 @@ Building intelligent software with Artificial Intelligence, scalable full-stack 
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,css,bash,regex" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,kotlin,js,ts,html,css,xml,bash,regex" />
+
+</p>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 
 </p>
 
@@ -87,6 +92,28 @@ Building intelligent software with Artificial Intelligence, scalable full-stack 
 
 ---
 
+# System Design & Architecture
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Scalable%20Systems-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microservices-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Distributed%20Systems-6E40C9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-D8B878?style=for-the-badge&logoColor=black"/>
+
+</p>
+
+- Designing reliable, scalable services with clear API boundaries and practical trade-offs.
+- Building distributed systems with observability, caching, asynchronous workflows, and resilient data flows.
+- Applying architecture patterns for microservices, event-driven systems, authentication, and high-performance backends.
+
+### Recommended Reading
+
+- *Designing Data-Intensive Applications* — Martin Kleppmann
+- *System Design Interview* — Alex Xu and Sahn Lam
+
+---
+
 # Full Stack Development
 
 <p align="left">
@@ -130,7 +157,7 @@ Building intelligent software with Artificial Intelligence, scalable full-stack 
 
 ---
 
-# 🗄 Databases
+# Databases
 
 <p align="left">
 
@@ -185,6 +212,18 @@ Building intelligent software with Artificial Intelligence, scalable full-stack 
 
 ---
 
+## Contribution Journey
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Umer191/Muhammad-Umer191/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-Umer191/Muhammad-Umer191/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated snake moving through Muhammad Umer's GitHub contribution graph" src="https://raw.githubusercontent.com/Muhammad-Umer191/Muhammad-Umer191/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
 # Currently Exploring
 
 - Agentic AI
@@ -202,19 +241,19 @@ Building intelligent software with Artificial Intelligence, scalable full-stack 
 
 ---
 
-# 🌍 Connect With Me
+# Connect With Me
 
-📧 **Email:** **uarfan@gmail.com**
+**Email:** **uarfan@gmail.com**
 
-💼 **LinkedIn:** https://www.linkedin.com/in/its-muhammad-umer/
+**LinkedIn:** https://www.linkedin.com/in/its-muhammad-umer/
 
-💻 **GitHub:** https://github.com/Muhammad-Umer191
+**GitHub:** https://github.com/Muhammad-Umer191
 
 ---
 
 <div align="center">
 
 ### *"Turning ideas into intelligent, scalable software."*
-⭐ Thanks for stopping by!
+Thanks for stopping by!
 
 </div>

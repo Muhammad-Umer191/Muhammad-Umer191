@@ -1,0 +1,69 @@
+<svg width="1400" height="613" viewBox="0 0 1400 613" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammad Umer — AI and Full Stack Engineer</title>
+  <desc id="desc">An animated technical hero banner for Muhammad Umer.</desc>
+  <defs>
+    <radialGradient id="background" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(700 0) rotate(90) scale(550 1260)">
+      <stop stop-color="#10141B"/><stop offset=".6" stop-color="#07080B"/>
+    </radialGradient>
+    <linearGradient id="bottomShade" x1="700" y1="536" x2="700" y2="613" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".3"/>
+    </linearGradient>
+    <clipPath id="terminalClip"><rect x="475" y="562" width="450" height="28"/></clipPath>
+  </defs>
+
+  <rect x=".5" y=".5" width="1399" height="612" rx="14" fill="url(#background)" stroke="#FFF" stroke-opacity=".09"/>
+
+  <!-- Subtly pulsing network, replacing the canvas animation with safe native SVG animation. -->
+  <g stroke="#D8B878" stroke-opacity=".12" stroke-width="1">
+    <path d="M124 124 273 203 406 111 526 229 670 152 804 255 962 176 1114 257 1267 137"><animate attributeName="stroke-opacity" values=".05;.18;.05" dur="6s" repeatCount="indefinite"/></path>
+    <path d="M273 203 206 331 375 369 526 229 608 353 804 255 865 384 1114 257 1201 369"><animate attributeName="stroke-opacity" values=".16;.04;.16" dur="7s" repeatCount="indefinite"/></path>
+    <path d="M206 331 101 427 375 369 478 457 608 353 735 448 865 384 1006 471 1201 369 1313 465"><animate attributeName="stroke-opacity" values=".04;.16;.04" dur="5s" repeatCount="indefinite"/></path>
+    <path d="M124 124 101 427M273 203 375 369M406 111 478 457M670 152 735 448M962 176 1006 471M1267 137 1313 465"/>
+  </g>
+  <g fill="#F2F3F5" fill-opacity=".32">
+    <circle cx="124" cy="124" r="2"><animate attributeName="r" values="1.2;2.5;1.2" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="273" cy="203" r="2"><animate attributeName="r" values="2;1;2" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="406" cy="111" r="2"><animate attributeName="r" values="1;2.4;1" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="526" cy="229" r="2"><animate attributeName="r" values="2.2;1.1;2.2" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="670" cy="152" r="2"><animate attributeName="r" values="1;2.6;1" dur="4.3s" repeatCount="indefinite"/></circle>
+    <circle cx="804" cy="255" r="2"><animate attributeName="r" values="2.3;1.1;2.3" dur="3.3s" repeatCount="indefinite"/></circle>
+    <circle cx="962" cy="176" r="2"><animate attributeName="r" values="1;2.5;1" dur="3.9s" repeatCount="indefinite"/></circle>
+    <circle cx="1114" cy="257" r="2"><animate attributeName="r" values="2.3;1;2.3" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="1267" cy="137" r="2"><animate attributeName="r" values="1;2.5;1" dur="4.5s" repeatCount="indefinite"/></circle>
+    <circle cx="101" cy="427" r="2"/><circle cx="375" cy="369" r="2"/><circle cx="608" cy="353" r="2"/><circle cx="865" cy="384" r="2"/><circle cx="1201" cy="369" r="2"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#9AA0A9">
+    <text x="56" y="52">“Simplicity is prerequisite for reliability.”</text><text x="56" y="73" fill="#D8B878">— Edsger W. Dijkstra</text>
+    <text x="1344" y="52" text-anchor="end">“Keep it simple, stupid.”</text><text x="1344" y="73" text-anchor="end" fill="#63D9C9">— The KISS Principle</text>
+    <text x="56" y="518">// System design isn't about perfect solutions — it's all about trade-offs.</text><text x="1344" y="518" text-anchor="end">// Bridging the gap between intelligent ideas and execution.</text>
+  </g>
+
+  <text x="700" y="268" text-anchor="middle" fill="#F2F3F5" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="82" font-weight="700" letter-spacing="-2">Muhammad Umer</text>
+
+  <!-- A centered, readable technology row with gentle motion. -->
+  <g>
+    <g fill="#9AA0A9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.5">
+      <animateTransform attributeName="transform" type="translate" values="-36 0;36 0;-36 0" dur="13s" repeatCount="indefinite"/>
+      <text x="700" y="310" text-anchor="middle">AI / ML   ·   NLP   ·   DEEP LEARNING   ·   SYSTEM DESIGN   ·   FULL STACK   ·   DISTRIBUTED SYSTEMS</text>
+    </g>
+  </g>
+
+  <!-- Exactly one centered message is visible at a time; each slot lasts 3.5 seconds. -->
+  <g text-anchor="middle" fill="#F2F3F5" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="24">
+    <text x="700" y="360" opacity="0">Designing systems that scale intelligently<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.029;.138;.167;1" dur="21s" repeatCount="indefinite"/></text>
+    <text x="700" y="360" opacity="0">Turning raw data into deployable intelligence<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.167;.196;.305;.334;1" dur="21s" repeatCount="indefinite"/></text>
+    <text x="700" y="360" opacity="0">Architecting backends built to perform under load<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.334;.363;.472;.500;1" dur="21s" repeatCount="indefinite"/></text>
+    <text x="700" y="360" opacity="0">Shipping full-stack AI, end to end<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.500;.529;.638;.667;1" dur="21s" repeatCount="indefinite"/></text>
+    <text x="700" y="360" opacity="0">Optimizing inference pipelines &amp; models<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.667;.696;.805;.834;1" dur="21s" repeatCount="indefinite"/></text>
+    <text x="700" y="360" opacity="0">From research prototypes to robust production systems<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.834;.863;.972;1" dur="21s" repeatCount="indefinite"/></text>
+  </g>
+
+  <path d="M1 542.5H1399" stroke="#FFF" stroke-opacity=".09"/><rect x="1" y="543" width="1398" height="69" fill="url(#bottomShade)"/>
+  <!-- One discrete status line is visible at a time, preventing any overlap. -->
+  <g clip-path="url(#terminalClip)" text-anchor="middle" fill="#9AA0A9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">
+    <text x="700" y="585">Live: Building scalable AI services<animate attributeName="opacity" values="1;0" keyTimes="0;.333" calcMode="discrete" dur="10s" repeatCount="indefinite"/></text>
+    <text x="700" y="585" opacity="0">Focus: Reliability, observability, efficiency<animate attributeName="opacity" values="0;1;0" keyTimes="0;.333;.667" calcMode="discrete" dur="10s" repeatCount="indefinite"/></text>
+    <text x="700" y="585" opacity="0">Mission: Deliver production-ready intelligence<animate attributeName="opacity" values="0;0;1" keyTimes="0;.667;1" calcMode="discrete" dur="10s" repeatCount="indefinite"/></text>
+  </g>
+</svg>
