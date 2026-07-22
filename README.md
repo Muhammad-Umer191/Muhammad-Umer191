@@ -212,7 +212,7 @@
 
 ---
 
-## 🌐 `ACTIVITY.feed — CONTRIBUTION GRID`
+## ACTIVITY.feed — CONTRIBUTION GRID
 
 <div align="center">
   <img alt="Snake animation moving through Muhammad Umer's GitHub contribution grid" src="https://raw.githubusercontent.com/Muhammad-Umer191/Muhammad-Umer191/gh-pages/github-contribution-grid-snake-dark.svg" width="100%" />
@@ -222,7 +222,6 @@
 
 # Currently Exploring
 
-- Agentic AI
 - Multi-Agent Systems
 - Advanced NLP
 - Computer Vision
@@ -232,7 +231,6 @@
 - MLOps
 - Scalable SaaS Architecture
 - AI Infrastructure
-- LLM Fine-Tuning
 
 
 ---
