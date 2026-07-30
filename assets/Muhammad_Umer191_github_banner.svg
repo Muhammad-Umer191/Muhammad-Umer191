@@ -45,7 +45,7 @@
   <g>
     <g fill="#9AA0A9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.5">
       <animateTransform attributeName="transform" type="translate" values="-36 0;36 0;-36 0" dur="13s" repeatCount="indefinite"/>
-      <text x="700" y="310" text-anchor="middle">AI / ML   ·   NLP   ·   DEEP LEARNING   ·   SYSTEM DESIGN   ·   FULL STACK   ·   DISTRIBUTED SYSTEMS</text>
+      <text x="700" y="310" text-anchor="middle">AI / ML   ·   NLP   ·   COMPUTER VISION   ·   DEEP LEARNING   ·   SYSTEM DESIGN   ·   FULL STACK   ·   DISTRIBUTED SYSTEMS</text>
     </g>
   </g>
 
