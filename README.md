@@ -243,6 +243,8 @@
 
 **GitHub:** https://github.com/Muhammad-Umer191
 
+**Kaggle:** https://www.kaggle.com/muhammadumereng
+
 ---
 
 <div align="center">
